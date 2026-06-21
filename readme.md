@@ -1,21 +1,5 @@
-# 报名介绍
-
-```js
-*首先将sign-up fork到自己git上
-*再将其clone到本地
-*在本地文件夹下填写个人信息
-*将该文件夹push到git上
-*向我发起pull request
-```
-
-## 个人信息包括：
-
-```js
-*昵称
-*学院+专业
-*联系方式（QQ、微信、邮箱）
-*个人爱好
-```
-
-## git教程链接
-https://liaoxuefeng.com/books/git/introduction/index.html
+        申请报名
+姓名：赵梓虬
+学院和专业：大气科学院气象学
+联系方式：QQ 3410867540
+个人爱好：调教群友（不是）
